@@ -11,3 +11,4 @@
 - More about TG bots - https://core.telegram.org/bots
 - Show JSON bot - https://t.me/ShowJsonBot
 - Python Telegram Bot code snippets - https://github.com/python-telegram-bot/python-telegram-bot/wiki/Code-snippets#fetch-updates
+- D:CODE dev chat - https://t.me/dcodedev
